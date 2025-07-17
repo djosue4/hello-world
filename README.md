@@ -1,2 +1,3 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub_
+la rama seria esta PRIMERA
+saludos
